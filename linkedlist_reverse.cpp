@@ -148,6 +148,7 @@ LinkedList l2;
 l2.add(2);
 list.merge(&l2);
 list.display();
+printf("HELLO");
 
     return 0;
 }
