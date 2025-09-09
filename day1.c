@@ -85,14 +85,11 @@ int main(){ //driver code
 // float d =(sub1+sub2+sub3)/3;
 // printf("%f",d);
 
+//int a = 1150;
+// int s = 230;
+// printf("%i",(a/s));
 
-
-
-
-int a = 1150;
-int s = 230;
-printf("%i",(a/s));
-    return 0 ;
+return 0 ;
 }
 // int b = 1;
 // int c = a+b;
