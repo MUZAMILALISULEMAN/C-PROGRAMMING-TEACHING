@@ -40,8 +40,15 @@ const float pi = 3.14;
 // float / double => double
 // double / float => double
 
+// + - / * % 
 
-
+// int v = 125;
+// int third = v%10; 
+// v= v/10;
+// int second = v%10;
+// v= v/10;
+// int frist = v%10;
+// printf("%i",third+second+frist);
 
 
 return 0;
