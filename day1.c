@@ -2,12 +2,23 @@
 int main(){ //driver code
 
 // integer : int 4 byte 32 bits −2,147,483,648 -> +2,147,483,647 
-// floating point : float 4 byte 32 bits 1.2E−38 to 3.4E+38
+// floating point : float 4 byte 32 bi3ts 1.2E−38 to 3.4E+38
 // double precision : double 8 byte 64 bits 2.3E−308 to 1.7E+308
 // character : char 1 byte 8 bits −128 to 127
+//string collection of characters 
+// char a = 'A';
 
-// int var  = 65;
-// float ar1 = 99999.7;
+
+// float b = 0.1;
+// char n = 'Z';
+// printf("%c",n);
+// printf("control string") printf("a")
+// printf("control string",data variables)
+// printf("%c%c%c",a,b,c)
+
+
+
+// float ar1 = 99999.7
 // double ba2 = 100000.55;
 // char zee= 'f';
 // collection of character is called string "" <- string '' <- character
@@ -68,11 +79,23 @@ int main(){ //driver code
 // printf("add:%i multi:%i division:%i sub:%i",c,d,e,f);
 // printf("multi: %i",(int)a*b);
 
-int sub1 = 90;
-int sub2 = 80;
-int sub3 =70;
-float d =(sub1+sub2+sub3)/3;
-printf("%f",d);
+// int sub1 = 90;
+// int sub2 = 80;
+// int sub3 =70;
+// float d =(sub1+sub2+sub3)/3;
+// printf("%f",d);
 
+
+
+
+
+int a = 1150;
+int s = 230;
+printf("%i",(a/s));
     return 0 ;
 }
+// int b = 1;
+// int c = a+b;
+// int d = a*b;
+// int e =a/b;
+// int f = a-b;
