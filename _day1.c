@@ -17,6 +17,7 @@ int main(){ //driver code
 char a = 'n';
 char b = 'a';
 char c = 'y';
+    char k = 'a';
 char d = 'a';
 char e = 'b';
 // printf("%c",a);
