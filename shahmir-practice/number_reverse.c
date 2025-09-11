@@ -2,7 +2,11 @@
 int main(){
     //print => 341;
     
-    int number = 1234;
+
+    int number;
+    printf("enter the 4 digit number\n");
+    scanf("%i",&number);
+
     int x = number%10;
     number = number/10;
     int y = number%10;
