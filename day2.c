@@ -1,13 +1,15 @@
 #include<stdio.h>
+#define fahad 0.0
 int main(){
+
 // variables
 // variables memory mn khanchy jis mn data store kia jaye
-float var = 3.14; //initialization : declaration + assignment
+//float var = 3.14; //initialization : declaration + assignment
 //int y; // declaration
 //y=30; // assignment
 
 // constant variable that cannot be changed
-const float pi = 3.14;
+//const float pi = 3.14;
 
 // errors:
 
@@ -49,6 +51,7 @@ const float pi = 3.14;
 // v= v/10;
 // int first = v%10;
 // printf("%i",third+second+first);
+
 
 
 return 0;

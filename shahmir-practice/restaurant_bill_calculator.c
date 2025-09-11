@@ -1,9 +1,8 @@
 #include<stdio.h>
 int main(){
-
-    printf("menu\n");
-    printf("burger----------360\n");
-    printf("pizza-----------1200\n");
+printf("menu\n");
+printf("burger----------360\n");
+printf("pizza-----------1200\n");
 printf("roll------------150\n");
 printf("samosa----------30\n");
 int burger;
