@@ -24,6 +24,55 @@ int main(){
 // printf("%i",k);
 
 
+//what is if and else
+// if : agr  => keyword
+// else : agr nhi  => keyword
+
+//syntax if(condition){
+
+// }else{
+
+//}
+// arithematic + - / * %
+//  > < == >= <= != comparision operator 
+// a>=b
+// condition
+int a = 40;
+int b = 30;
+// if(a > b){
+//     printf("\n a is greater \n");
+// }else{
+//     printf("b is greater");
+// }
+
+// printf("%i",!(a==b));
+
+// if(0){
+//     printf("HELLO");
+// }
+
+// int n = 0;
+// if(n==0){
+//     printf("NEUTRAL");
+// }else{
+//     printf("NEGATIVE");
+// }
+// logical operators
+// ! not operator || or && and
+
+// arithematic : + - / % *
+// comparision operator : > < >= <= != ==
+//logical operator : ! || && 
+//unary operator : ! & ++ --
+
+// operand jin pr operation kiye jaty hein
+// operator operation krta h 
+
+// types of operators by operands
+// a(operand) +(operator) b(operand) binary
+// operator(!) a(operand) unary
+
+
 
 
 
